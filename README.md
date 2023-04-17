@@ -1,5 +1,5 @@
 # obisdiansettings
-#Minimal Obsidian Settings 
+Minimal Obsidian Settings 
 
 To use: Copy all the file in .obsidian folder and paste them into your vault directory.
 The changes will take place when you reopen the vault
