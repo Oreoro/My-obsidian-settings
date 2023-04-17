@@ -1,7 +1,7 @@
 # Obisdian settings
 Minimal Obsidian Settings 
 
-To use: Copy all the file in .obsidian folder and paste them into your vault directory.
+To use: Delete existing files in your .obsidian folder present in your vault directory.Then copy all the files in this repository in your vault .obsidian folder.
 The changes will take place when you reopen the vault
 
 
