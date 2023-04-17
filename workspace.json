@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "107c0f67b748e05d",
+    "type": "split",
+    "children": [
+      {
+        "id": "53c369112a635884",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc541a07799281cf",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "free codecamp.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "078403ad273df55d",
+    "type": "split",
+    "children": [
+      {
+        "id": "9781376b825eb8f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf392785fb699bee",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "71d72d637c9f5dcb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c4ed84ca76fd2db5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "4100acf3a6c3c8a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "852764110dc9040b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1bffb2e4c131e5b5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "free codecamp.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "304b3d5771ccdd74",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "23ad01a96718626c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "free codecamp.md"
+              }
+            }
+          },
+          {
+            "id": "341b8247b2b0aebb",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false
+    }
+  },
+  "active": "fc541a07799281cf",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "free codecamp.md",
+    "Day Planners/Day Planner-20230417.md",
+    "Day Planners",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Untitled 7.md",
+    "Untitled 6.md",
+    "Untitled 1",
+    "startup april.md",
+    "event handler.md",
+    "Untitled 3.md",
+    "Day Planners/Day Planner-20230329.md",
+    "Untitled 1.md",
+    "xyz.md",
+    "Untitled 5.md",
+    "2023-04-08.md",
+    "Untitled",
+    "2023-04-14.md",
+    "Day Planners/Day Planner-20230414.md",
+    "2023-04-13.md",
+    "Day Planners/Day Planner-20230413.md",
+    "Untitled 4.md",
+    "Untitled 2.md",
+    "startups.md",
+    "Day Planners/Day Planner-20230405.md",
+    "Day Planners/Day Planner-20230402.md",
+    "notes programming compilers.md",
+    "Day Planners/Day Planner-20230412.md",
+    "Day Planners/Day Planner-20230411.md",
+    "Day Planners/Day Planner-20230410.md",
+    "ff"
+  ]
+}
