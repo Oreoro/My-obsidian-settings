@@ -1,0 +1,2 @@
+# obisdiansettings
+Minimal Obsidian Settings 
